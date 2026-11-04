@@ -24,8 +24,9 @@ So I built this as an actual pipeline, not a one-off prompt. Each stage has expl
 | `templates/job_tracker_schema.csv` | The column structure I track every application against - no real rows, just the schema |
 | `docs/workflow.md` | How all of the above chain together end to end, and why it's structured this way |
 | `docs/master-resume-and-project-setup.md` | How the master resume is built and maintained, and how to run the whole search as a Claude Project instead of disconnected chats |
+| `docs/profile-usage-example.md` | A verified, step-by-step walkthrough of filling in `profile.json` and running both build scripts against it |
 
-See [`docs/workflow.md`](docs/workflow.md) for the full pipeline diagram and the reasoning behind each design choice, and [`docs/master-resume-and-project-setup.md`](docs/master-resume-and-project-setup.md) for what sits upstream of all of it.
+See [`docs/workflow.md`](docs/workflow.md) for the full pipeline diagram and the reasoning behind each design choice, [`docs/master-resume-and-project-setup.md`](docs/master-resume-and-project-setup.md) for what sits upstream of all of it, and [`docs/profile-usage-example.md`](docs/profile-usage-example.md) for a worked usage example.
 
 ## What's deliberately not in here
 
