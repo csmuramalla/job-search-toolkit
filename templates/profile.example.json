@@ -60,7 +60,7 @@
       "company": "Example Cloud Platform Inc.",
       "dates": "Mar 2023 – Present",
       "location": "Toronto, ON, Canada",
-      "role": "Lead Data Analyst (Staff Data Informatics Analyst)",
+      "role": "Lead Data Analyst",
       "tense": "present",
       "techStack": "Snowflake, Power BI (DAX, Power Query M), SQL, Python, Claude API",
       "bulletsSourceNote": "Pull from your own master resume bullets for this role. Never invent content here.",
