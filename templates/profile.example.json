@@ -1,0 +1,113 @@
+{
+  "_comment": "Fictional example profile. Replace every field with your own real, truthful data before using these templates. Nothing here is a real person.",
+
+  "identity": {
+    "fullName": "Jordan Reyes",
+    "positioningTitle": "Lead Data Analyst",
+    "email": "jordan.reyes.example@email.com",
+    "phone": "+1-555-010-2040",
+    "linkedinUrl": "linkedin.com/in/jordanreyes-example",
+    "location": "Hamilton, ON, Canada"
+  },
+
+  "targetSearch": {
+    "targetTitles": [
+      "Senior/Lead/Staff Data Analyst",
+      "Analytics Engineering",
+      "BI Platform Lead"
+    ],
+    "compensationFloor": "CAD $115K",
+    "compensationTarget": "CAD $125K - $145K",
+    "geography": "Hamilton/GTA hybrid preferred; Canada remote acceptable",
+    "coreStack": ["Snowflake", "Power BI", "SQL", "Python", "dbt", "Tableau"],
+    "keyDifferentiator": "Built a production natural-language analytics tool connecting an LLM API to the company data warehouse",
+    "knownGaps": ["Formal A/B testing platforms", "Airflow orchestration", "Salesforce/CRM systems"]
+  },
+
+  "education": [
+    {
+      "degree": "Advanced Diploma, Data Science",
+      "institution": "Fictional Example Polytechnic, Toronto, Canada",
+      "date": "Jun 2023"
+    },
+    {
+      "degree": "B.Tech, Computer Science",
+      "institution": "Example State University",
+      "date": "2012"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Microsoft Power BI Data Analyst Associate (PL-300)",
+      "issuer": "Microsoft",
+      "date": "Jul 2022"
+    },
+    {
+      "name": "SAFe 6 Agilist",
+      "issuer": "Scaled Agile Inc.",
+      "date": "Jun 2022"
+    },
+    {
+      "name": "dbt Fundamentals",
+      "issuer": "dbt Labs",
+      "date": "Mar 2026"
+    }
+  ],
+
+  "employmentHistory": [
+    {
+      "company": "Example Cloud Platform Inc.",
+      "dates": "Mar 2023 – Present",
+      "location": "Toronto, ON, Canada",
+      "role": "Lead Data Analyst (Staff Data Informatics Analyst)",
+      "tense": "present",
+      "techStack": "Snowflake, Power BI (DAX, Power Query M), SQL, Python, Claude API",
+      "bulletsSourceNote": "Pull from your own master resume bullets for this role. Never invent content here.",
+      "bullets": [
+        "REPLACE: tailored bullet 1, present tense, verb first.",
+        "REPLACE: tailored bullet 2. No two adjacent bullets open with the same verb.",
+        "REPLACE: additional bullets as the JD warrants."
+      ]
+    },
+    {
+      "company": "Example Cloud Platform Inc.",
+      "dates": "Aug 2020 – Feb 2023",
+      "location": "Remote",
+      "role": "Senior Data Analyst",
+      "tense": "past",
+      "techStack": "Legacy warehouse, Snowflake migration, Power BI, Excel VBA, Tableau",
+      "bullets": [
+        "REPLACE: past tense bullets, typically 3 to 4."
+      ]
+    },
+    {
+      "company": "Example Analytics Partners",
+      "dates": "Jan 2018 – Jul 2020",
+      "location": "Toronto, ON, Canada",
+      "role": "Data Analyst",
+      "tense": "past",
+      "techStack": "SQL, Python, Kafka, Jira",
+      "bullets": [
+        "REPLACE: typically 2 bullets with real, verifiable metrics."
+      ]
+    },
+    {
+      "company": "Example Technology Solutions",
+      "dates": "Jun 2015 – Dec 2017",
+      "location": "Toronto, ON, Canada",
+      "role": "Programmer Analyst, a major retail client, Support",
+      "tense": "past",
+      "techStack": "SQL, Excel VBA, Crystal Reports",
+      "bullets": [
+        "REPLACE: 1 combined bullet is typical here."
+      ]
+    }
+  ],
+
+  "notesForUser": [
+    "Keep your real employment order fixed across every tailored resume once you set it the first time.",
+    "If your master resume anonymizes any client names, keep that anonymization consistent here too.",
+    "Never let an LLM invent a metric, employer, or date that isn't in your real master resume."
+  ]
+}

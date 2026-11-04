@@ -1,0 +1,7 @@
+# Your real profile data - never commit this. See templates/profile.example.json
+# and docs/workflow.md for how to set up your own copy.
+profile.json
+
+# Local build output
+*.docx
+*.pdf
